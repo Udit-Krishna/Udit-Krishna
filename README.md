@@ -52,7 +52,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="uditkrishna2003@gmail.com" target="_blank">
+  <a href="mailto:uditkrishna2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Contact%20Me&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/udit-krishna" target="_blank">
